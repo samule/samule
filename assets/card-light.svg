@@ -1,66 +1,91 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1134" height="720" viewBox="0 0 1134 720" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1094" height="737" viewBox="0 0 1094 737" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" font-size="15px">
 <style>.k{fill:#953800}.v{fill:#0a3069}.d{fill:#c2cfde}text,tspan{white-space:pre}</style>
-<rect width="1134" height="720" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="18" y="37" fill="#24292f" xml:space="preserve">
-<tspan x="18" dy="0">                        .``&#x27;`..</tspan>
-<tspan x="18" dy="19">                   &#x27;+!rkxrrrri==+===+~:.</tspan>
-<tspan x="18" dy="19">                .:r$&amp;&amp;H%ljjjrkKri|ilrxxrj=:</tspan>
-<tspan x="18" dy="19">             .=jrkm#mHHHm%KKkkx%kk%Kkk$H&amp;#$K*:`</tspan>
-<tspan x="18" dy="19">          .:~j#kmM&amp;MM8&amp;&amp;&amp;MM#HHm%mHm%%Kk%KH8&amp;mK!,</tspan>
-<tspan x="18" dy="19">        &#x27;i#8#H#%H#88M%ljiillrxkKK%%$mmmmm#8@&amp;&amp;Hr~.</tspan>
-<tspan x="18" dy="19">       ,kM##H$%$MMk*~;~;:;;;;;;;:,,&#x27;&#x27;&#x27;`.  .,*$@@H-.</tspan>
-<tspan x="18" dy="19">      &#x27;rmHMMM$$mK+,.`,:;;;;;;;;:::,,::,,&#x27;`.   +&amp;@m;</tspan>
-<tspan x="18" dy="19">      ~kHmHm$%$K!-,`&#x27;,;~-~-~~~~~~~~~~~~~~;;:,` `m8+</tspan>
-<tspan x="18" dy="19">     &#x27;i%%m$$K%%Kl*~:;~~-+==+-~~~;;;;~~~--~~~;:,&#x27;,mK`</tspan>
-<tspan x="18" dy="19">     ;%$m$m$$H$%x!-~~-----~--++=-~~;;:::;;;:::::::K-</tspan>
-<tspan x="18" dy="19">     ;K$mHHmm##$*,:~+==+-~;::;~+++++=-~;~~~;;:::::=*</tspan>
-<tspan x="18" dy="19">     ;KmHmHmHMK;`,;-!~~jjj|***!!jrxkl|*+=||*=~:,:;-+.</tspan>
-<tspan x="18" dy="19">     ;$&amp;&amp;#$xji;&#x27;:;~-*i!jjlrkkkrr$Kjjl*~;+|kxkkr*~:~~`</tspan>
-<tspan x="18" dy="19">   .`;++|rHMMj:;~~~+=jr|%Hm%%%k%mmH=*:`,*K%m%kj!=*-!&#x27;</tspan>
-<tspan x="18" dy="19">  .--x!ii~lMk~;--~;:::;:-!ijllllli*--&#x27; .+i$$#MH%|~=*&#x27;</tspan>
-<tspan x="18" dy="19">  .,:=,*k*l%*~-++++-~::,&#x27;`&#x27;&#x27;,,,:~;~+~,..:~|rri*+*:*=`</tspan>
-<tspan x="18" dy="19">   ;&#x27;&#x27;~xx~xr!-+*!!*==++--~;,,,;==~~-~&#x27;  .:::~--;:,+:</tspan>
-<tspan x="18" dy="19">   .~&#x27;;;-iKki+=**|i||!!*==+=|kkm!,,:-~&#x27;` ,|-:,,,:;;&#x27;</tspan>
-<tspan x="18" dy="19">    ` .,&#x27;rKKl!*=*||iji||!!!jl**x&amp;M&amp;&amp;$xlj|;|r|+~;;;,.</tspan>
-<tspan x="18" dy="19">     ...,%m$lji=!!||ii||!!*l$$HM8B8@@B@@M*;|j|=+-;&#x27;</tspan>
-<tspan x="18" dy="19">      `~~j#%rj!|!|!!||*+-ikM&amp;H%K$$xKlxK#m$|==i!=+:.</tspan>
-<tspan x="18" dy="19">         ;%Krji!*!||i!!=!m8Hkji|!+;;-~~-|mMK*+=+-&#x27;</tspan>
-<tspan x="18" dy="19">         .lmKkriii|ijrrr%H%+,~~++-+=+:.  x@8K;:-:.</tspan>
-<tspan x="18" dy="19">          -$Hm%xl|*|k$%$H#Kjjijilk$m%k*,,+m8%++=:.</tspan>
-<tspan x="18" dy="19">          &#x27;rmHm$Kxxk$%$m%$KkxlrjrK%rK%ri=ir%ri!-,</tspan>
-<tspan x="18" dy="19">           +x$%$mmHmmmmm$%%$KKkkxxxxrKrlllrxkx|:</tspan>
-<tspan x="18" dy="19">         .,*jrxk$HHHmmm$$$m%K%KKKkKkxkxk%$mHHr~</tspan>
-<tspan x="18" dy="19">       .,~=!ilrxrk$mHHHHHmm$m$$$%%%%$$mKm##$l~</tspan>
-<tspan x="18" dy="19">   .`..,++==!ijlxrrrx%mHH#HHHHmmmmmmHHHHHm%k|`</tspan>
-<tspan x="18" dy="19">,+!jKmk*:~+++*!!ijlrrrrxk%$H#####MM&amp;&amp;&amp;#$i$$$%i:.</tspan>
-<tspan x="18" dy="19">m%kxk%$Hmx*~--+==*!ijlrllllrllxkkkkxl|~ *8MHH#$j+,.</tspan>
-<tspan x="18" dy="19">ilKmm%%$mH#Hk!+--+=!ilrrrrrrrrrrrjj!+:` ~x#8&amp;&amp;&amp;%j!+~:.</tspan>
-<tspan x="18" dy="19">!ii|ix%$$$m###HKj+~-*!|ijjjjrrrrlj!=+~:` ,=|mM8Hl=---~.</tspan>
-<tspan x="18" dy="19">%ki*ijjjx%$$%m####%r!+-+=*=**!iii!**=+-:` +x|~;=!=~-+~&#x27;`</tspan>
-<tspan x="18" dy="19">~KMM%xllljrk%%KKm#MMM#mKl!++-===****=++;`.$mKj=----+jm&amp;r`</tspan>
+<rect width="1094" height="737" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="29.2" fill="#24292f" font-size="9.5px" xml:space="preserve">
+<tspan x="18" dy="0">                                      . .</tspan>
+<tspan x="18" dy="11.5">                               ..:+:::............ .  .</tspan>
+<tspan x="18" dy="11.5">                           ..++*#**++***#*+::...:.:+::....</tspan>
+<tspan x="18" dy="11.5">                        .::+*###*+:::++++:++:+:::.::::++::+:.</tspan>
+<tspan x="18" dy="11.5">                      ...+*####***+++:.::+**#++..:::::::+::+++::</tspan>
+<tspan x="18" dy="11.5">                   .::++++*#******#*+*+*+++++**+***+++:+***#**++*:.</tspan>
+<tspan x="18" dy="11.5">                  .*#+:++##**#######*#***++++:++++++++++++*##*#*+++:.</tspan>
+<tspan x="18" dy="11.5">               ..:**++*##@####@#@#@#@##*#***+++*****++++:::::*###+++::</tspan>
+<tspan x="18" dy="11.5">            :*#*#**#****#*###@##*++++++*+****##*#####@#######*###***++..</tspan>
+<tspan x="18" dy="11.5">          :+#@@#**#**+*##@@##+:..:......:.:::::::::::::+:+::++**##***++:.</tspan>
+<tspan x="18" dy="11.5">         .*@@###**+*+*####+:.....  . . .     .                  .:+##@#*:.</tspan>
+<tspan x="18" dy="11.5">        .+#*****##*+**##+:            .  .          .              .*@#**:</tspan>
+<tspan x="18" dy="11.5">       .***#*#@@@*+**#*:. .  .  . . .      .    .                    :@##*:</tspan>
+<tspan x="18" dy="11.5">       :*###@####**#**:.                 .   .     .   .  .           .##+.</tspan>
+<tspan x="18" dy="11.5">       .+*#**###**+**:...      . . .  .        .  .  .   .   .         .##+.</tspan>
+<tspan x="18" dy="11.5">      .++#**#**++**+++:...  .    . . .  .  .               .   .        .#*.</tspan>
+<tspan x="18" dy="11.5">     ..*****#*****+**++.. .   .   . . ..  .            .          .      .*+</tspan>
+<tspan x="18" dy="11.5">      +****#**#*+***++::..  .  .     .  .  . . .            .   .         .+.</tspan>
+<tspan x="18" dy="11.5">     .***#***#+#*##**++:.  . . . .. .    . . .. . . .                      .:</tspan>
+<tspan x="18" dy="11.5">      ***#*###********.     . . .  .               . .                .    ..</tspan>
+<tspan x="18" dy="11.5">     .+***#*#****###+.  . . .... .. ...... ...:+::....... . ... .           :</tspan>
+<tspan x="18" dy="11.5">      +*#*#******##+.     ..:  ..:::::......:...::++:..... ...... .       . .</tspan>
+<tspan x="18" dy="11.5">     .*#*#****++::.   . .   ..  ::............:::..:.:..   ...::::::. .     .</tspan>
+<tspan x="18" dy="11.5">     .+##@##*++++++..  . ....::::.::::++++*++::+++:.+:.. .  ..::::::++..</tspan>
+<tspan x="18" dy="11.5">       ..:***#**#*.  .  .  . .:::.++*#**####*+**+**:...    ..:::::::...... ...</tspan>
+<tspan x="18" dy="11.5">  ...:+::. .:+*#*: . . .    . .....:::.... ...::+:::       :::++++++:... .  .</tspan>
+<tspan x="18" dy="11.5"> ...:+:::+. .+**+ .  .   .        ...::::::::+:::.. ..     . .+++####*::   ...</tspan>
+<tspan x="18" dy="11.5">  ..::. .::..:#+.  . . .   .    .      . .... . .  . .      ..::...:.:::.. ...</tspan>
+<tspan x="18" dy="11.5"> .  ... .:++ :+:.. . .. .. .                     . . .      .  .:::... ..  ..</tspan>
+<tspan x="18" dy="11.5">  .. . .+**. +::. . .. ... . . .              .  .. .           . ....     ..</tspan>
+<tspan x="18" dy="11.5">  .. . .:::..+::.. ........ ... .... . .  . ..:...  . .       .</tspan>
+<tspan x="18" dy="11.5">   :. .....::+:+.. . ............ . ... ..::+*+.             ..            .</tspan>
+<tspan x="18" dy="11.5">    . .  . .+++::. .....:::.......... ...:+:::+:....::....    .:..   .</tspan>
+<tspan x="18" dy="11.5">        . ..+++::... ......::::........:::....*#*###*++::....  ::...</tspan>
+<tspan x="18" dy="11.5">           +++++::.........:.:.::...:.::::::++##@@@@##+*+###:..::....  .  .</tspan>
+<tspan x="18" dy="11.5">      .   .++**::.::. ....:.:....:.....:*+***#*#####@@@@@#@*+.  .::.. .</tspan>
+<tspan x="18" dy="11.5">       ..:.:+#*+:.+...:.:...::::......:+#*#****###****#*####+*......... .</tspan>
+<tspan x="18" dy="11.5">         ...**++::..::...:........ .:+*##@**++++++:::.:::+++++:.. ..... .</tspan>
+<tspan x="18" dy="11.5">            +++:::::.....:::::.....:*#@##*++++:::.:.:::..:.:.+*::..... .</tspan>
+<tspan x="18" dy="11.5">            .**++::::...::..:::::..:*##+:.........  .      .:#@#*:.  . .</tspan>
+<tspan x="18" dy="11.5">            .***+++::::+:.::+.+::++##*+.. .............     .+@@**:.  .</tspan>
+<tspan x="18" dy="11.5">             +***++:+:::.:.::+**++*#**+......:::::::+:::. .  :+##+: . .</tspan>
+<tspan x="18" dy="11.5">             .**#***++:::..:*****#####+++::+:::+++*****::. . .+*#*:.....</tspan>
+<tspan x="18" dy="11.5">             .+**###*+::::++*#***#*##**++++:+:::+*#*++**+:...:++#++: .. .</tspan>
+<tspan x="18" dy="11.5">              +******##***+*#***##*****+*+++++:+*++++*+*+:::.:::+:::.:..</tspan>
+<tspan x="18" dy="11.5">              .:*****######*#######****#*++*++*++++:+:*+++:+::+::+:+.:.</tspan>
+<tspan x="18" dy="11.5">              .::+****+*######*####**###****+*++++*+*:*++++:++++*+*++.</tspan>
+<tspan x="18" dy="11.5">             ..::+++:*####@#*###**#####************+*++*+++**+**###+:.</tspan>
+<tspan x="18" dy="11.5">            ...:::::+++*####@##########*#**##*#+***+**+**+**##@##*+:.</tspan>
+<tspan x="18" dy="11.5">          ......:::++++:+*@##@#@##@###@####*##*#*#**#**###+*@###*+:.</tspan>
+<tspan x="18" dy="11.5">        ........:::+:+++:+:+*##@@###@############*#######**####*+:.</tspan>
+<tspan x="18" dy="11.5">   ..    .........::::++++++:++*#@@@@@@#@#@##############@##*#++++.</tspan>
+<tspan x="18" dy="11.5">.::+*#+:  ...........:::+:+*++++++*###@@@@#@##@#@@#@@@#@###*+****+*:</tspan>
+<tspan x="18" dy="11.5">+++++**#*:. ........:..:.:::+::+++::+++*###@@##@##@#@@###*:.+******++..</tspan>
+<tspan x="18" dy="11.5">::++*+***##+.. ..........::::::+:::::+:::+:++**+*+++++::..  ###*******:..</tspan>
+<tspan x="18" dy="11.5">@#*+++*****##*+............::+:++++++++++:::::::::+:....   .#@##***#**+::..</tspan>
+<tspan x="18" dy="11.5">+*###**+*##*####*:........::::+:+::+:+:++++++:++::::... .   .:*####*##+::.....</tspan>
+<tspan x="18" dy="11.5">:::+**##**+####*###+:........::::+:+:+++:+:++:+:::.....  .  ....+#####*+... . ...</tspan>
+<tspan x="18" dy="11.5">+::::++**##***#@######*:.......:.:::::.::+::++:::.:... .      ...:+**#*+:........</tspan>
+<tspan x="18" dy="11.5">::++:::+++**#**+#########+:................:.:.:... . . . .    ::..  ..:.... ....</tspan>
+<tspan x="18" dy="11.5">#+::++++::++**#**+*#@##@##@#*+:....:.................... .     ++::.. ........:..:.</tspan>
 </text>
-<text x="558" y="160" fill="#24292f" xml:space="preserve">
-<tspan x="558" dy="0">santiago@mule <tspan class="d">----------------------------------------------</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">OS</tspan>: <tspan class="d">......................</tspan><tspan class="v"> Buenos Aires, Argentina (UTC-3)</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Uptime</tspan>: <tspan class="d">......................</tspan><tspan class="v"> 10+ years shipping projects</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Host</tspan>: <tspan class="d">......................</tspan><tspan class="v"> Gappify, Lead Project Manager</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Kernel</tspan>: <tspan class="d">.....................</tspan><tspan class="v"> Project &amp; Program Management</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Shell</tspan>: <tspan class="d">..........</tspan><tspan class="v"> AI-enabled operator, builder after hours</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">IDE</tspan>: <tspan class="d">........................</tspan><tspan class="v"> Claude Code, Cursor, VS Code</tspan></tspan>
-<tspan x="558" dy="19"> </tspan>
-<tspan x="558" dy="19">. <tspan class="k">Languages.Spoken</tspan>: <tspan class="d">.......................</tspan><tspan class="v"> Spanish, English</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Languages.Code</tspan>: <tspan class="d">........</tspan><tspan class="v"> JavaScript, HTML/CSS, SQL, Python</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Stack.Favorite</tspan>: <tspan class="d">....</tspan><tspan class="v"> n8n, Postgres, React + Vite, three.js</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Hobbies.Hardware</tspan>: <tspan class="d">...........</tspan><tspan class="v"> 3D printing, ESP32 tinkering</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Hobbies.Other</tspan>: <tspan class="d">.....................</tspan><tspan class="v"> F1 data, puzzle games</tspan></tspan>
-<tspan x="558" dy="19"> </tspan>
-<tspan x="558" dy="19">- Experience <tspan class="d">-----------------------------------------------</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Gappify</tspan>: <tspan class="d">..................</tspan><tspan class="v"> Lead Project Manager, 2022-now</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Cognizant</tspan>: <tspan class="d">............</tspan><tspan class="v"> Program Mgmt Manager, Google Cloud</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Banco Provincia</tspan>: <tspan class="d">.............</tspan><tspan class="v"> Business Planning &amp; Control</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Accenture</tspan>: <tspan class="d">......................</tspan><tspan class="v"> PMO Lead, TechStar Award</tspan></tspan>
-<tspan x="558" dy="19"> </tspan>
-<tspan x="558" dy="19">- Contact <tspan class="d">--------------------------------------------------</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">LinkedIn</tspan>: <tspan class="d">................................</tspan><tspan class="v"> in/santiagomule</tspan></tspan>
-<tspan x="558" dy="19">. <tspan class="k">Web</tspan>: <tspan class="d">....................................</tspan><tspan class="v"> samule.github.io</tspan></tspan>
+<text x="518" y="169.0" fill="#24292f" xml:space="preserve">
+<tspan x="518" dy="0">santiago@mule <tspan class="d">----------------------------------------------</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">OS</tspan>: <tspan class="d">......................</tspan><tspan class="v"> Buenos Aires, Argentina (UTC-3)</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Uptime</tspan>: <tspan class="d">......................</tspan><tspan class="v"> 10+ years shipping projects</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Host</tspan>: <tspan class="d">......................</tspan><tspan class="v"> Gappify, Lead Project Manager</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Kernel</tspan>: <tspan class="d">.....................</tspan><tspan class="v"> Project &amp; Program Management</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Shell</tspan>: <tspan class="d">..........</tspan><tspan class="v"> AI-enabled operator, builder after hours</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">IDE</tspan>: <tspan class="d">........................</tspan><tspan class="v"> Claude Code, Cursor, VS Code</tspan></tspan>
+<tspan x="518" dy="19"> </tspan>
+<tspan x="518" dy="19">. <tspan class="k">Languages.Spoken</tspan>: <tspan class="d">.......................</tspan><tspan class="v"> Spanish, English</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Languages.Code</tspan>: <tspan class="d">........</tspan><tspan class="v"> JavaScript, HTML/CSS, SQL, Python</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Stack.Favorite</tspan>: <tspan class="d">....</tspan><tspan class="v"> n8n, Postgres, React + Vite, three.js</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Hobbies.Hardware</tspan>: <tspan class="d">...........</tspan><tspan class="v"> 3D printing, ESP32 tinkering</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Hobbies.Other</tspan>: <tspan class="d">.....................</tspan><tspan class="v"> F1 data, puzzle games</tspan></tspan>
+<tspan x="518" dy="19"> </tspan>
+<tspan x="518" dy="19">- Experience <tspan class="d">-----------------------------------------------</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Gappify</tspan>: <tspan class="d">..................</tspan><tspan class="v"> Lead Project Manager, 2022-now</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Cognizant</tspan>: <tspan class="d">............</tspan><tspan class="v"> Program Mgmt Manager, Google Cloud</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Banco Provincia</tspan>: <tspan class="d">.............</tspan><tspan class="v"> Business Planning &amp; Control</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Accenture</tspan>: <tspan class="d">......................</tspan><tspan class="v"> PMO Lead, TechStar Award</tspan></tspan>
+<tspan x="518" dy="19"> </tspan>
+<tspan x="518" dy="19">- Contact <tspan class="d">--------------------------------------------------</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">LinkedIn</tspan>: <tspan class="d">................................</tspan><tspan class="v"> in/santiagomule</tspan></tspan>
+<tspan x="518" dy="19">. <tspan class="k">Web</tspan>: <tspan class="d">....................................</tspan><tspan class="v"> samule.github.io</tspan></tspan>
 </text></svg>

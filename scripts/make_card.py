@@ -49,6 +49,9 @@ FONT = 15
 LINE = 19
 CHAR = FONT * 0.6  # monospace advance width (approximate)
 PAD = 18
+AFONT = 9.5
+ALINE = 11.5
+ACHAR = AFONT * 0.6
 
 
 def info_line(item):
@@ -69,11 +72,11 @@ def build(theme):
     art = (ROOT / f"assets/portrait-{theme}.txt").read_text().rstrip("\n").split("\n")
     art_cols = max(len(l) for l in art)
     rows = max(len(art), len(INFO))
-    x_info = PAD + (art_cols + 3) * CHAR
+    x_info = PAD + art_cols * ACHAR + 3 * CHAR
     width = int(x_info + WIDTH * CHAR + PAD * 2)
-    height = int(PAD * 2 + rows * LINE)
-    art_top = PAD + LINE + (rows - len(art)) * LINE // 2
-    info_top = PAD + LINE + (rows - len(INFO)) * LINE // 2
+    height = int(PAD * 2 + max(len(art) * ALINE, len(INFO) * LINE))
+    art_top = PAD + ALINE + (height - 2 * PAD - len(art) * ALINE) / 2
+    info_top = PAD + LINE + (height - 2 * PAD - len(INFO) * LINE) / 2
 
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
@@ -83,12 +86,12 @@ def build(theme):
         f"text,tspan{{white-space:pre}}</style>",
         f'<rect width="{width}" height="{height}" rx="12" fill="{c["bg"]}" '
         f'stroke="{c["border"]}"/>',
-        f'<text x="{PAD}" y="{art_top}" fill="{c["ascii"]}" xml:space="preserve">',
+        f'<text x="{PAD}" y="{art_top:.1f}" fill="{c["ascii"]}" font-size="{AFONT}px" xml:space="preserve">',
     ]
     for i, line in enumerate(art):
-        out.append(f'<tspan x="{PAD}" dy="{0 if i == 0 else LINE}">{escape(line)}</tspan>')
+        out.append(f'<tspan x="{PAD}" dy="{0 if i == 0 else ALINE}">{escape(line)}</tspan>')
     out.append("</text>")
-    out.append(f'<text x="{x_info:.0f}" y="{info_top}" fill="{c["text"]}" xml:space="preserve">')
+    out.append(f'<text x="{x_info:.0f}" y="{info_top:.1f}" fill="{c["text"]}" xml:space="preserve">')
     cls = {"key": "k", "value": "v", "dots": "d"}
     for i, item in enumerate(INFO):
         segs = "".join(
