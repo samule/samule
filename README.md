@@ -33,5 +33,3 @@ By night I build small tools and toys, mostly with AI as my pair. This profile i
 ### 📫 say hi
 
 [LinkedIn](https://www.linkedin.com/in/santiagomule/) · [samule.github.io](https://samule.github.io)
-
-<sub>The card is generated: `scripts/make_ascii.py` turns a photo into the portrait, `scripts/make_card.py` builds the SVGs.</sub>
